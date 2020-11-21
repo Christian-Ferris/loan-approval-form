@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, serif;
+    font-size: larger;
+}
+
+h1 {
+    padding: 20px;
+    background-color: aquamarine;
+    border: outset 2px black;
+    font-size: 250%;
+}
+
+.h1-padding {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+label.error {
+    font-size: 80%;
+    padding-left: 5px;
+    color: red;
+}
+
+#output {
+    text-align: center;
+    font-size: 120%;
+}
